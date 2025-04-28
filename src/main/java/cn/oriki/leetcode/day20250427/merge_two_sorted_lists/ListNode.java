@@ -1,4 +1,4 @@
-package cn.oriki.leetcode.merge_two_sorted_lists;
+package cn.oriki.leetcode.day20250427.merge_two_sorted_lists;
 
 public class ListNode {
 

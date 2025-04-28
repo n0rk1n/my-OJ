@@ -1,4 +1,4 @@
-package cn.oriki.leetcode.plus_one;
+package cn.oriki.leetcode.day20250427.plus_one;
 
 /**
  * <a href="https://leetcode.cn/problems/plus-one/">66. 加一</a>

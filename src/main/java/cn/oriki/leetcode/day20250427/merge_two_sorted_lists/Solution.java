@@ -1,4 +1,4 @@
-package cn.oriki.leetcode.merge_two_sorted_lists;
+package cn.oriki.leetcode.day20250427.merge_two_sorted_lists;
 
 /**
  * <a href="https://leetcode.cn/problems/merge-two-sorted-lists/description/">21. 合并两个有序链表</a>

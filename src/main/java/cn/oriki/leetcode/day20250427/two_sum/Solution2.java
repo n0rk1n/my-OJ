@@ -1,4 +1,4 @@
-package cn.oriki.leetcode.two_sum;
+package cn.oriki.leetcode.day20250427.two_sum;
 
 /**
  * <a href="https://leetcode.cn/problems/two-sum/">1. 两数之和</a>

@@ -1,4 +1,4 @@
-package cn.oriki.leetcode.two_sum;
+package cn.oriki.leetcode.day20250427.two_sum;
 
 import java.util.HashMap;
 import java.util.Map;
