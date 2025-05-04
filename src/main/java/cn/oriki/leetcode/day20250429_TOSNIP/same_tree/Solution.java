@@ -1,8 +1,9 @@
-package cn.oriki.leetcode.day20250429.same_tree;
+package cn.oriki.leetcode.day20250429_TOSNIP.same_tree;
 
 /**
  * <a href="https://leetcode.cn/problems/same-tree/">100. 相同的树</a>
  */
+// TO SNIP
 public class Solution {
 
     public boolean isSameTree(TreeNode p, TreeNode q) {

@@ -1,5 +1,6 @@
-package cn.oriki.leetcode.day20250429.same_tree;
+package cn.oriki.leetcode.day20250429_TOSNIP.same_tree;
 
+// TO SNIP
 public class TreeNode {
 
     int val;

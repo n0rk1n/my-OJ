@@ -1,8 +1,9 @@
-package cn.oriki.leetcode.day20250429.search_insert_position;
+package cn.oriki.leetcode.day20250429_TOSNIP.search_insert_position;
 
 /**
  * <a href="https://leetcode.cn/problems/search-insert-position/">35. 搜索插入位置</a>
  */
+// TO SNIP
 public class Solution {
 
     public int searchInsert(int[] nums, int target) {

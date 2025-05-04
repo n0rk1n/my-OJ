@@ -1,8 +1,9 @@
-package cn.oriki.leetcode.day20250429.valid_palindrome;
+package cn.oriki.leetcode.day20250429_TOSNIP.valid_palindrome;
 
 /**
  * <a href="https://leetcode.cn/problems/valid-palindrome/">125. 验证回文串</a>
  */
+// TO SNIP
 public class Solution {
 
     public boolean isPalindrome(String s) {
