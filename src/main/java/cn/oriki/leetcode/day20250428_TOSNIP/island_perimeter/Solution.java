@@ -1,8 +1,9 @@
-package cn.oriki.leetcode.day20250428.island_perimeter;
+package cn.oriki.leetcode.day20250428_TOSNIP.island_perimeter;
 
 /**
  * <a href="https://leetcode.cn/problems/island-perimeter/">463. 岛屿的周长</a>
  */
+// TO SNIP
 public class Solution {
 
     public int islandPerimeter(int[][] grid) {

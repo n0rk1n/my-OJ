@@ -1,8 +1,9 @@
-package cn.oriki.leetcode.day20250428.climbing_stairs;
+package cn.oriki.leetcode.day20250428_TOSNIP.climbing_stairs;
 
 /**
  * <a href="https://leetcode.cn/problems/climbing-stairs/">70. 爬楼梯</a>
  */
+// TO SNIP
 public class Solution {
 
     public int climbStairs(int n) {

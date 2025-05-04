@@ -1,8 +1,9 @@
-package cn.oriki.leetcode.day20250428.fibonacci_number;
+package cn.oriki.leetcode.day20250428_TOSNIP.fibonacci_number;
 
 /**
  * <a href="https://leetcode.cn/problems/fibonacci-number/">509. 斐波那契数</a>
  */
+// TO SNIP
 public class Solution {
 
     public int fib(int n) {
